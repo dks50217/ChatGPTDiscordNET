@@ -1,5 +1,6 @@
 # ChatGPTDiscordNET
 
+ChatGPT with Discord.NET
 
 replace ___YOUR_TOKEN___ with your Discord BOT token
 
